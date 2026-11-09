@@ -1,0 +1,75 @@
+{
+  "versiune": "2026.11.09",
+  "data": "2026-11-09",
+  "descriere": "Reguli fiscale în vigoare la 9 noiembrie 2026 (Codul fiscal, Codul de procedură fiscală, OPANAF 587/2016, OPANAF 1783/2021, Legea contabilității 82/1991, Legea 141/2025, OUG 89/2025).",
+  "cote": {
+    "tva_std": 21,
+    "tva_red": 11,
+    "tva_red2": 9,
+    "profit": 16,
+    "micro": 1,
+    "micro_plafon_eur": 100000,
+    "tva_lunar_plafon_eur": 100000,
+    "curs_eur": 5,
+    "cas": 25,
+    "cass": 10,
+    "cam": 2.25,
+    "imp_sal": 10,
+    "sponsor_ca": 0.75,
+    "sponsor_imp": 20,
+    "dividende": {
+      "2023": 8,
+      "2024": 8,
+      "2025": 10,
+      "2026": 16
+    }
+  },
+  "termene": {
+    "lunar_zi": 25,
+    "d394_zi": 30,
+    "d406": "ultima_zi",
+    "d101": {
+      "luna": 6,
+      "zi": 25
+    },
+    "sf": {
+      "luna": 5,
+      "zi": 31
+    },
+    "micro_t4": {
+      "2026": "2026-06-25",
+      "implicit": "01-25"
+    },
+    "imploc": [
+      "03-31",
+      "09-30"
+    ]
+  },
+  "sarbatori_suplimentare": [],
+  "sarbatori_eliminate": [],
+  "anunturi": [
+    {
+      "id": "2026-11-09-a",
+      "data": "2026-11-09",
+      "titlu": "Reguli fiscale 2026 încărcate",
+      "text": "TVA 21% / 11%, impozit pe profit 16%, impozit pe dividende 16% (distribuiri din 2026), impozit micro 1% cu plafon 100.000 EUR, CAS 25%, CASS 10%, CAM 2,25%. D101 pentru 2025 se depune până la 25 iunie 2026.",
+      "link": "https://www.anaf.ro"
+    },
+    {
+      "id": "2026-11-09-b",
+      "data": "2026-11-09",
+      "titlu": "Termene care se mută pe zi lucrătoare",
+      "text": "Termenele care cad în weekend sau în zile de sărbătoare legală se mută pe prima zi lucrătoare (ex. D394 și D406 pentru octombrie 2026 – 2 decembrie 2026).",
+      "link": ""
+    }
+  ],
+  "formulare_urmarite": {
+    "D100": "100",
+    "D101": "101",
+    "D112": "112",
+    "D205": "205",
+    "D300": "300",
+    "D390": "390",
+    "D394": "394"
+  }
+}
